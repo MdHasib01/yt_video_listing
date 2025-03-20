@@ -10,4 +10,7 @@ A YouTube-style video listing page that fetches and displays videos from the Fre
 - Add a search bar to filter videos (filteration is done on frontend without any additional api calls)
 - Implement a grid layout for better UI
 
+## Live UTL:
+-  http://youtube-video-listing01.netlify.app/
+
 ![alt text](image.png)
